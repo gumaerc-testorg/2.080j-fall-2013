@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-080j-structural-mechanics-fall-2013/e4ef5a99a54e33d2efe1103bf1bff647_2-080J_stat-students.png
+file: /media/courses/2-080j-structural-mechanics-fall-2013/e4ef5a99a54e33d2efe1103bf1bff647_2-080J_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 2-080J_stat-students.png
 uid: e4ef5a99-a54e-33d2-efe1-103bf1bff647

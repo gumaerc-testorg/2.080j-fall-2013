@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-080j-structural-mechanics-fall-2013/82dcbc5682aa2a2ac5cd644eb63f492c_MIT2_080JF13_ProbSet_9.pdf
+file: /media/courses/2-080j-structural-mechanics-fall-2013/82dcbc5682aa2a2ac5cd644eb63f492c_MIT2_080JF13_ProbSet_9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 2.080J Structural Mechanics Problem Set 9
 uid: 82dcbc56-82aa-2a2a-c5cd-644eb63f492c

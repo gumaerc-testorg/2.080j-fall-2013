@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 30787ae8-b1e4-3e42-5bf8-855cb2d63a54
 ---
@@ -35,20 +37,6 @@ This course is designed to provide substantial coverage of material required for
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A medium-sized classroom with auditorium style seating and several blackboards.]({{< resource_file 81a836d4-a770-6f19-cedd-bdc346bdcc7e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture & Recitation
-    
-    Lecture and recitation took place in this classroom, which can accommodate 57 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

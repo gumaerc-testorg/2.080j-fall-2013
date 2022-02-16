@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lecture 6. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-080j-structural-mechanics-fall-2013/f827582935b884270771d43cdeba860d_MIT2_080JF13_Lecture6.pdf
+file: /media/courses/2-080j-structural-mechanics-fall-2013/f827582935b884270771d43cdeba860d_MIT2_080JF13_Lecture6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '2.080J Structural Mechanics Lecture 6: Moderately Large Deflection Theory
   of Beams'

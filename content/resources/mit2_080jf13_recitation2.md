@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-080j-structural-mechanics-fall-2013/a2e1b809154b9ea913e5a79896cd9943_MIT2_080JF13_Recitation2.pdf
+file: /media/courses/2-080j-structural-mechanics-fall-2013/a2e1b809154b9ea913e5a79896cd9943_MIT2_080JF13_Recitation2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: "2.080J Structural Mechanics Recitation 2: Stress/Strain Transformations and\
   \ Mohr\u2019s Circle"
