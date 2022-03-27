@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 08a95770-0cf7-3142-60e0-b44e508eaf76
 resourcetype: Document
 title: '2.080J Structural Mechanics Lecture 5: Solution Method for Beam Deflections'
 uid: 3533c046-dafc-c488-f143-2e92d05ec210

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ecbe9504-c374-c172-32bc-265c6e47237b
 resourcetype: Document
 title: 2.080J Structural Mechanics Solutions to Problem Set 6
 uid: 02ef5427-95db-3a2d-f144-bb42a9a5c89d

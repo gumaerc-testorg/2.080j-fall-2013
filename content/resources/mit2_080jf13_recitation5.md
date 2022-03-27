@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b833bafb-be2d-1965-1e34-ce93bc1dbf52
 resourcetype: Document
 title: '2.080J Structural Mechanics Recitation 5: Summary of Plate Bending'
 uid: de27f1d8-f647-ff99-5771-d4b8d48d34bc

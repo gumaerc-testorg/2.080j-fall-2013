@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 08a95770-0cf7-3142-60e0-b44e508eaf76
 resourcetype: Document
 title: '2.080J Structural Mechanics Lecture 8: Energy Methods in Elasticity'
 uid: 2d0cc95b-d355-6fda-dc28-226acabafa51

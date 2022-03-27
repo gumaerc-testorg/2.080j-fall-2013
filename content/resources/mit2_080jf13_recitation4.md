@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: b833bafb-be2d-1965-1e34-ce93bc1dbf52
 resourcetype: Document
 title: '2.080 Structural Mechanics Recitation 4: A Beam Problem'
 uid: ecee0c4e-1700-679d-b4a3-8d1edb7c5625

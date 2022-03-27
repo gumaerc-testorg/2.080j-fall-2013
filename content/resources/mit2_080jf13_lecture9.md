@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 08a95770-0cf7-3142-60e0-b44e508eaf76
 resourcetype: Document
 title: '2.080J Structural Mechanics Lecture 9: Stability of Elastic Structures'
 uid: 5a7038cb-6ca0-db1d-da86-8e9d669b6836

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 08a95770-0cf7-3142-60e0-b44e508eaf76
 resourcetype: Document
 title: '2.080 Structural Mechanics Lecture 4: Development of Constitutive Equations
   of Continuum, Beams and Plates'

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 392dc9b4-c4b5-4c7d-f47a-ccb290f318f9
 resourcetype: Document
 title: 2.080J Structural Mechanics Quiz 1 Review
 uid: dc184a10-6bb2-cb35-1ae3-ae4a479c8240
