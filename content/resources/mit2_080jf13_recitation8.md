@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 8.
-file: /media/courses/2-080j-structural-mechanics-fall-2013/88a60ff1c9dcc0a0800e01fa82f4e7de_MIT2_080JF13_Recitation8.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/88a60ff1c9dcc0a0800e01fa82f4e7de_MIT2_080JF13_Recitation8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -14,3 +14,5 @@ title: '2.080J Structural Mechanics Recitation 8: A Pin Supported Column with Ec
   Axial Load'
 uid: 88a60ff1-c9dc-c0a0-800e-01fa82f4e7de
 ---
+This file contains information regarding recitation 8.
+

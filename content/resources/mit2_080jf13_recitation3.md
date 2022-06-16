@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 3.
-file: /media/courses/2-080j-structural-mechanics-fall-2013/c51fc7cab20fd38e5f41a3470e2d4da7_MIT2_080JF13_Recitation3.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/c51fc7cab20fd38e5f41a3470e2d4da7_MIT2_080JF13_Recitation3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -14,3 +14,5 @@ title: '2.080J Structural Mechanics Recitation 3: Summary of Beam Equations and 
   of Solution'
 uid: c51fc7ca-b20f-d38e-5f41-a3470e2d4da7
 ---
+This file contains information regarding recitation 3.
+

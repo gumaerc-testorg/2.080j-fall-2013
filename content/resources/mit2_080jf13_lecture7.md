@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lecture 7. '
-file: /media/courses/2-080j-structural-mechanics-fall-2013/f8fd2ad49d100766335b4e129a8a4791_MIT2_080JF13_Lecture7.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/f8fd2ad49d100766335b4e129a8a4791_MIT2_080JF13_Lecture7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ title: '2.080J Structural Mechanics Lecture 7: Bending Response of Plates and Op
   Design'
 uid: f8fd2ad4-9d10-0766-335b-4e129a8a4791
 ---
+This file contains information regarding lecture 7. 
+

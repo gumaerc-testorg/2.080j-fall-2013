@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz review 1.
-file: /media/courses/2-080j-structural-mechanics-fall-2013/dc184a106bb2cb351ae3ae4a479c8240_MIT2_080JF13_Quiz_1_Review.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/dc184a106bb2cb351ae3ae4a479c8240_MIT2_080JF13_Quiz_1_Review.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 2.080J Structural Mechanics Quiz 1 Review
 uid: dc184a10-6bb2-cb35-1ae3-ae4a479c8240
 ---
+This file contains information regarding quiz review 1.
+
