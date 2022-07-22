@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/a2e1b809154b9ea913e5a79896c
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "2.080J Structural Mechanics Recitation 2: Stress/Strain Transformations 
 uid: a2e1b809-154b-9ea9-13e5-a79896cd9943
 ---
 This file contains information regarding recitation 2.
-

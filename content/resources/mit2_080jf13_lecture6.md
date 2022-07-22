@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/f827582935b884270771d43cdeb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.080J Structural Mechanics Lecture 6: Moderately Large Deflection Theor
 uid: f8275829-35b8-8427-0771-d43cdeba860d
 ---
 This file contains information regarding lecture 6. 
-

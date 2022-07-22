@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/8bbfa9484bba36e736ca2dc4f74
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.080J Structural Mechanics Problem Set 7
 uid: 8bbfa948-4bba-36e7-36ca-2dc4f740deaf
 ---
 This file contains information regarding problem set 7.
-

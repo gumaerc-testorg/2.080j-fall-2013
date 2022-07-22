@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/66fa4e5a6dd4be43bd36bb63722
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.080J Structural Mechanics Solutions to Problem Set 9
 uid: 66fa4e5a-6dd4-be43-bd36-bb6372232942
 ---
 This file contains information regarding problem set 9 solution. 
-

@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/68c42799d8ec61fe7933cc5f7f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.080J Structural Mechanics Lecture 10: Advanced Topic in Column Bucklin
 uid: 68c42799-d8ec-61fe-7933-cc5f7f74f8c1
 ---
 This file contains information regarding lecture 10. 
-

@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/de27f1d8f647ff995771d4b8d48
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.080J Structural Mechanics Recitation 5: Summary of Plate Bending'
 uid: de27f1d8-f647-ff99-5771-d4b8d48d34bc
 ---
 This file contains information regarding recitation 5.
-

@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/1361ac112c32fb9f0b08c616c27
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.080J Structural Mechanics Quiz 3
 uid: 1361ac11-2c32-fb9f-0b08-c616c274cb2b
 ---
 This file contains information regarding quiz 3.
-

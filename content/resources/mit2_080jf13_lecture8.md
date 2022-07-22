@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/2d0cc95bd3556fdadc28226acab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.080J Structural Mechanics Lecture 8: Energy Methods in Elasticity'
 uid: 2d0cc95b-d355-6fda-dc28-226acabafa51
 ---
 This file contains information regarding lecture 8. 
-

@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/3533c046dafcc488f1432e92d05
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.080J Structural Mechanics Lecture 5: Solution Method for Beam Deflecti
 uid: 3533c046-dafc-c488-f143-2e92d05ec210
 ---
 This file contains information regarding lecture 5. 
-

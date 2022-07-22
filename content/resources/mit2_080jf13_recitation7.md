@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/bcb1fa6740259f050b80254e28c
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.080J Structural Mechanics Recitation 7: Column Buckling Solutions Usin
 uid: bcb1fa67-4025-9f05-0b80-254e28c3eec0
 ---
 This file contains information regarding recitation 7.
-

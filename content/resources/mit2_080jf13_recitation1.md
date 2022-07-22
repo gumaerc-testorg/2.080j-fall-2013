@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/8baee2e2343201e241f83d99ff9
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.080J Structural Mechanics Recitation 1: Vector/Tensor Analysis and Rev
 uid: 8baee2e2-3432-01e2-41f8-3d99ff9ecdf4
 ---
 This file contains information regarding recitation 1.
-

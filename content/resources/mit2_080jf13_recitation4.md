@@ -5,6 +5,7 @@ file: /courses/2-080j-structural-mechanics-fall-2013/ecee0c4e1700679db4a38d1edb7
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.080 Structural Mechanics Recitation 4: A Beam Problem'
 uid: ecee0c4e-1700-679d-b4a3-8d1edb7c5625
 ---
 This file contains information regarding recitation 4.
-
