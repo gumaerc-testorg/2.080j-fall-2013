@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, recommended textbook, assignments, grading, and
+  the doctoral qualifying exam in structures.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 78062c81-89b8-10d2-2495-ab0be403047c
 ---
