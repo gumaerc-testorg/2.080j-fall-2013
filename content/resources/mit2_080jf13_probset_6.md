@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 6.
 file: /courses/2-080j-structural-mechanics-fall-2013/0b4a35361edc66459f6b815e7bae6556_MIT2_080JF13_ProbSet_6.pdf
+file_size: 169501
 file_type: application/pdf
 learning_resource_types:
 - Assignments
