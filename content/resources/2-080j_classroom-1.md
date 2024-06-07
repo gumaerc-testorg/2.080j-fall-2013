@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-080j-structural-mechanics-fall-2013/81a836d4a7706f19ceddbdc346bdcc7e_2-080J_classroom-1.jpg
+file_size: 44644
 file_type: image/jpeg
 image_metadata:
   caption: ''

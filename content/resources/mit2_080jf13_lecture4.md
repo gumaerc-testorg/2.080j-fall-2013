@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding lecture 4. '
 file: /courses/2-080j-structural-mechanics-fall-2013/32670f14cec210d98c5c7fe9dbf73eb6_MIT2_080JF13_Lecture4.pdf
+file_size: 723926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
