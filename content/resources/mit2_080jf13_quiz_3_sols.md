@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding quiz 3 solution. '
 file: /courses/2-080j-structural-mechanics-fall-2013/640a9a2e6e6e552296894eb948d688c2_MIT2_080JF13_Quiz_3_Sols.pdf
+file_size: 1156977
 file_type: application/pdf
 learning_resource_types:
 - Exams

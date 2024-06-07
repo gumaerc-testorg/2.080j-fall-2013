@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding recitation 7.
 file: /courses/2-080j-structural-mechanics-fall-2013/bcb1fa6740259f050b80254e28c3eec0_MIT2_080JF13_Recitation7.pdf
+file_size: 519215
 file_type: application/pdf
 learning_resource_types:
 - Recitations
