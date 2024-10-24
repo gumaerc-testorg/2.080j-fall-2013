@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding recitation 3.
-file: /courses/2-080j-structural-mechanics-fall-2013/c51fc7cab20fd38e5f41a3470e2d4da7_MIT2_080JF13_Recitation3.pdf
+file: /ol-ocw-studio-app/courses/2-080j-structural-mechanics-fall-2013/c51fc7cab20fd38e5f41a3470e2d4da7_MIT2_080JF13_Recitation3.pdf
 file_size: 1187985
 file_type: application/pdf
 learning_resource_types:
