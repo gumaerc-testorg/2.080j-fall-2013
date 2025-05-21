@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lecture 3. '
-file: /ol-ocw-studio-app/courses/2-080j-structural-mechanics-fall-2013/8e61abd2b094e2214465ce18ab8eb440_MIT2_080JF13_Lecture3.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/8e61abd2b094e2214465ce18ab8eb440_MIT2_080JF13_Lecture3.pdf
 file_size: 1099089
 file_type: application/pdf
 learning_resource_types:
