@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 2.
-file: /ol-ocw-studio-app/courses/2-080j-structural-mechanics-fall-2013/6e930caa27f63d787ae65415de504d06_MIT2_080JF13_ProbSet_2.pdf
+file: /courses/2-080j-structural-mechanics-fall-2013/6e930caa27f63d787ae65415de504d06_MIT2_080JF13_ProbSet_2.pdf
 file_size: 349636
 file_type: application/pdf
 learning_resource_types:
