@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding quiz 1. '
-file: /courses/2-080j-structural-mechanics-fall-2013/ce4d9e23a157e60117cfd02fce35de49_MIT2_080JF13_Quiz_1.pdf
+file: /ol-ocw-studio-app/courses/2-080j-structural-mechanics-fall-2013/ce4d9e23a157e60117cfd02fce35de49_MIT2_080JF13_Quiz_1.pdf
 file_size: 243328
 file_type: application/pdf
 learning_resource_types:
