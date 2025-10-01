@@ -33,7 +33,7 @@ Prof. Wierzbicki's course notes are so thorough that they serve as an online tex
 
 _This textbook is recommended by Prof. Wierzbicki:_
 
-Ugural, Ansel C., and Saul K. Fenster. _Advanced Strength and Applied Elasticity_. Prentice Hall, 2003. ISBN: 9780130473929. \[Preview with [Google Books](http://books.google.com/books?id=fvQy2PdAuHIC&pg=PAfrontcover)\]
+Ugural, Ansel C., and Saul K. Fenster. _Advanced Strength and Applied Elasticity_. Prentice Hall, 2003. ISBN: 9780130473929. \[Preview with {{% resource_link "14f26a7b-ab32-4f01-bdf9-8e090146c59a" "Google Books" %}}\]
 
 Assignments
 -----------
