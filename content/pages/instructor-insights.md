@@ -31,7 +31,7 @@ This course teaches students fundamental concepts of structural mechanics with a
 
 ### Requirements Satisfied
 
-This course is designed to provide substantial coverage of material required for the [doctoral qualifying exam in structures](https://cee.mit.edu/graduate/mechanics).
+This course is designed to provide substantial coverage of material required for the {{% resource_link "be2ecfad-e957-4192-aff1-6f250883b4cb" "doctoral qualifying exam in structures" %}}.
 
 ### Offered
 
